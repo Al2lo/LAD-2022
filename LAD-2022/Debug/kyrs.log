@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (kyrs.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SemanticAnalize.cpp
+  kyrs.vcxproj -> D:\KPOkyrs\LAD-2022\Debug\LAD-2022.exe

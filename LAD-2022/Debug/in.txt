@@ -1,0 +1,19 @@
+int function cicle(int b)
+{
+	new uint d = 4;
+	reque $ 5 > 4 $
+	?
+		cycle
+			{
+				write "d";
+			}
+	?
+	return 2;
+}
+
+main
+{
+new uint gh = 20;
+
+write gh;
+}
