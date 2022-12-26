@@ -1,0 +1,6 @@
+﻿  StaticLibrary.cpp
+D:\KPOkyrs\StaticLibrary\StaticLibrary.cpp(32,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\KPOkyrs\StaticLibrary\StaticLibrary.cpp(36,2): warning C4297: powNumb: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\KPOkyrs\StaticLibrary\StaticLibrary.cpp(36,2): message : Функция типа extern "C", указан параметр /EHc
+D:\KPOkyrs\StaticLibrary\StaticLibrary.cpp(43,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  StaticLibrary.vcxproj -> D:\KPOkyrs\LAD-2022\Debug\StaticLibrary.lib
